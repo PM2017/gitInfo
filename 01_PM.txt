@@ -1,0 +1,4 @@
+1.My first file created , its in initial commit. - "untracked files" 
+2.File updated - its in  initial commit. - "untracked files" 
+3.File Add - changes to be commit 
+4.
